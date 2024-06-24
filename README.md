@@ -9,3 +9,6 @@ ICP-1 for Neural Networks & Deep Learning introduced fundamental Python programm
 
 
 Explanation video:  [Code Explanation Video](https://drive.google.com/file/d/1-LmlYPsUHGtgkoltwrwh5hUsM3jo0obJ/view?usp=drive_link)
+
+Name: Manas Abhinay Gajula 
+Student ID: 700757201
